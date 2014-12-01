@@ -26,14 +26,14 @@ module.exports = {
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
     forkButton: {
-        repository: "https://github.com/braziljs/conf-boilerplate"
+        repository: "https://github.com/desconferencia-sjc/desconferencia-sjc.github.io"
     },
 
     // Site info
     site: {
       theme: "yellow-swan",
-      url: "http://braziljs.github.io/conf-boilerplate/",
-      googleanalytics: "UA-33656081-1"
+      url: "http://desconferencia-sjc.github.io/",
+      googleanalytics: "UA-54979785-2"
     },
 
     // Active sections on the website

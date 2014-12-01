@@ -1,6 +1,11 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">So you want to organize a conference? That's pretty awesome! But we know that you don't have time to create the website, since you have to worry about contacting sponsors, chossing the right place, buying airplane tickets for speakers and many other things.</p>
+<p itemprop="description">Desconferência é um fórum auto-organizado que proporciona debates e apresentação de assuntos de interesse do público alvo.</p>
 
-<p>That's why we created this project! <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> is an iniciative of <a href="http://braziljs.org">BrazilJS Foundation</a> that provides a simple structure built on top of Docpad, a static generator in NodeJS, with all the things you need to create a event. We also provide a responsive template with i18n!</p>
+<p>Pra começar 2015 com o pé direito, decidimos inovar ainda mais no formato do evento e fazer nossas lightning talks a céu aberto, assim como outros eventos Open Air que ja existem na cidade.</p>
 
-<p>This is just a live demo, check our <a href="https://github.com/braziljs/conf-boilerplate">repository on Github</a> for more details =D</p>
+<p>Pra participar é bem simples: é só aparecer no dia, achar um cantinho pra sentar e levar muita disposição pra aprender.. O resto é por nossa conta :D</p>
+
+<p>Ah, também pedimos a contribuição de 1Kg de alimento não parecível pra ajudar alguma instituição de caridade da região.</p>
+
+<p>Pra palestrar basta escolher algum tema e apresentá-lo em até 15 minutos. É só chegar na hora e colocar seu nome na lista! (Teremos sistema de som e projetor, então capricha nos efeitos especiais)</p>
+
