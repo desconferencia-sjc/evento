@@ -23,14 +23,14 @@
   padding-bottom: 29px;
 }
 
-@media (max-width: 300px) {
+@media only screen and (max-width: 600px) {
   .sub-title{
     font-size: 92px;
     line-height: 87px;
   }
 
   .logo-link{
-    font-size: 55px;
+    font-size: 40px;
   }
 
 }
