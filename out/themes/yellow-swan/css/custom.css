@@ -23,7 +23,7 @@
   padding-bottom: 29px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 300px) {
   .sub-title{
     font-size: 92px;
     line-height: 87px;
