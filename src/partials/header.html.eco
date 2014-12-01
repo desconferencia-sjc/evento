@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<header class="header">
+<header class="header" id="home">
   <div class="wrapper">
     <h1 class="logo-name">
       <a class="logo-link" href="#" title="DESCONFERÊNCIA OPEN AIR" itemprop="name">DESCONFERÊNCIA <br><span class="sub-title">OPEN AIR</span></a>
