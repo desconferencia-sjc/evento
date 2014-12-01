@@ -8,7 +8,8 @@
 <header class="header">
   <div class="wrapper">
     <h1 class="logo-name">
-      <a class="logo-link" href="#" title="<%= @conf.name %>" itemprop="name"><%= @conf.name %></a>
+      <a class="logo-link" href="#" title="DESCONFERÊNCIA OPEN AIR" itemprop="name" style="
+    font-size: 92px;">DESCONFERÊNCIA <span class="sub-title">OPEN AIR</span></a>
     </h1>
     <h2 class="tagline"><%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %></h2>
 
@@ -19,7 +20,8 @@
         <% end %>
 
         <% if @callToAction: %>
-          <a href="<%= @callToAction.link %>" class="call-action-link" title="<%= @callToAction.text %>"><%= @callToAction.text %></a>
+
+          <a href="<%= @callToAction.link %>" class="ghost-button" title="<%= @callToAction.text %>"><%= @callToAction.text %></a>
         <% end %>
       </div>
     <% end %>

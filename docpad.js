@@ -7,11 +7,11 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Desconferência Open Air",
+      name: "DESCONFERÊNCIA OPEN AIR",
       description: "Conference description",
       date: "31 de Janeiro",
       // If your event is free, just comment this line
-      venue: "Parque vicentina aranha",
+      venue: "Parque Vicentina Aranha",
       address: "Rua Prudente M Moraes, 302",
       city: "São José dos Campos",
       state: "São Paulo"
@@ -20,7 +20,7 @@ module.exports = {
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Register now!",
+        text: "Inscreva-se!",
         link: "http://eventick.com.br"
     },
 
@@ -42,22 +42,22 @@ module.exports = {
     sections: [
       'about',
       'location',
-      'speakers',
-      'schedule',
-      'sponsors',
-      'partners'
+      // 'speakers',
+      // 'schedule',
+      // 'sponsors',
+      // 'partners'
       // 'contact'
     ],
 
     // Labels which you can translate to other languages
     labels: {
-      about: "About",
-      location: "Location",
+      about: "Sobre",
+      location: "Localização",
       // speakers: "Speakers",
       // schedule: "Schedule",
       // sponsors: "Sponsors",
       // partners: "Partners",
-      contact: "Contact"
+      contact: "Contato"
     },
 
 
