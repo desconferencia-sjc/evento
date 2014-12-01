@@ -12,7 +12,7 @@ module.exports = {
       date: "31 de Janeiro",
       // If your event is free, just comment this line
       venue: "Parque Vicentina Aranha",
-      address: "Rua Prudente M Moraes, 302",
+      address: "R. Eng. Prudente Meireles de Morais, 302",
       city: "São José dos Campos",
       state: "São Paulo"
     },
@@ -46,7 +46,7 @@ module.exports = {
       // 'schedule',
       // 'sponsors',
       // 'partners'
-      // 'contact'
+      'contact'
     ],
 
     // Labels which you can translate to other languages
